@@ -1,2 +1,2 @@
-# TransExpressSiteProject
-Projeto funcional de um site corporativo de uma empresa de Entregas
+# Site TransExpress
+Site funcional de uma empresa de entrega
